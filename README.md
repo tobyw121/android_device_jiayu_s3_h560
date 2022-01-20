@@ -1,4 +1,4 @@
-Source of the Linageos Projekt from jiayu_s3_h560
+Source of the Lineageos Projekt from jiayu_s3_h560
 
 
 android_device_jiayu_s3_h560.zip
