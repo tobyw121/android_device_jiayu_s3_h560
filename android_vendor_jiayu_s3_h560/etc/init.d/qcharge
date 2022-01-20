@@ -1,0 +1,4 @@
+#!/system/bin/sh
+
+echo 0 > /sys/kernel/charge_levels/quick_charge_enable
+echo 1200 > /sys/kernel/charge_levels/charge_level_ac 
