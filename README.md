@@ -1,0 +1,2 @@
+# android_device_jiayu_s3_h560
+android_device_jiayu_s3_h560-master
